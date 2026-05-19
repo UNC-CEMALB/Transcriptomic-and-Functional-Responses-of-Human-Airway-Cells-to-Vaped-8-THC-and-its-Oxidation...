@@ -1,7 +1,5 @@
 #################################################################################################
 #################################################################################################
-#### Lec8 Example: Transcriptomics and WCCNA (Love)
-#### ENVR 730 September 2025
 #### Correlating chemical analysis of ∆8-THC vaped condensates with RNA-seq data from primary human bronchial epithelial cells exposes to vaped ∆8-THC aerosols
 #### WCCNA analysis code adapted from Wildfire WGCNA Code (Rager)
 #################################################################################################
